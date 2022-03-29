@@ -1,2 +1,2 @@
 # EyeExercise
-Exercising use o Styles and Bootstrap
+Exercising the use o Styles and Bootstrap
