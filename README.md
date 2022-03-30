@@ -1,4 +1,4 @@
-# Pacman Excercise
+# Eyes Exercise
 ## Description
 The eyes exercise is a program that simulates the movement of two eyes, constantly following the mouse pointer as it goes around the screen. It is an intresting exemple of how to dinamically store and update the position of the mouse, while using this information to update the css styling of the elements in the page.
 
