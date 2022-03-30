@@ -1,8 +1,8 @@
 # Pacman Excercise
 ## Description
-The bus tracker exercise is a good exemple of how to use asynchronous javascript functions to fetch data from web and manipulate it as you wish
+The eyes exercise is a program that simulates the movement of two eyes, constantly following the mouse pointer as it goes around the screen. It is an intresting exemple of how to dinamically store and update the position of the mouse, while using this information to update the css styling of the elements in the page.
 
-<a href="https://matheusalbrs.github.io/PacMenExercise/">demo</a>
+<a href="https://matheusalbrs.github.io/EyeExercise/">demo</a>
 
 ## How to run
 <ul>
@@ -12,7 +12,7 @@ The bus tracker exercise is a good exemple of how to use asynchronous javascript
  </ul>
  
 ## Roadmap for future improvement
-Add a list of other routes that can be tracked.
+Make the eyes blink when clicked.
  
 ## License
 MIT License
